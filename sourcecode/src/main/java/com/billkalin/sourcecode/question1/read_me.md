@@ -10,10 +10,7 @@
     4, 7, 10, 13<br/>
     6, 8, 11, 15<br/>
 
-    查找是否存在数字7？
-
-
-
+  查找是否存在数字7？
 ##### 解题思路：
     (1)方法1
        遍历整个二维数组，顺序查找
@@ -22,5 +19,5 @@
         如果比目标数字大，那就往上一行查找
         如果比目标数字小，那就往右查找
         如此缩小范围，直到找到这个数字或者遍历完整个数组
-        [参考](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question1/Question1.java)
-
+##### 参考
+[Question1](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question1/Question1.java)
