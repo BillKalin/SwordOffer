@@ -4,3 +4,7 @@
 1、[二维数组中的查找](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question1/read_me.md)
 
 2、[替换空格](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question2/read_me.md)
+
+3、[从尾到头打印链表](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question3/read_me.md)
+
+4、[重建二叉树](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question4/read_me.md)
