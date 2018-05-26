@@ -10,3 +10,5 @@
 4、[重建二叉树](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question4/read_me.md)
 
 5、[用两个栈实现队列](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question5/read_me.md)
+
+6、[旋转数组的最小数字](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question6/read_me.md)
