@@ -7,9 +7,9 @@
 <br/>       &nbsp;&nbsp;&nbsp;/ \
 <br/>&nbsp;2 &nbsp;  3
 <br/>     &nbsp;/ &nbsp;&nbsp;&nbsp;/  \
-<br/>    4   &nbsp;&nbsp;5   6
-<br/>&nbsp; \
-<br/>&nbsp;&nbsp;&nbsp;7
+<br/>    4   &nbsp;&nbsp;5&nbsp;&nbsp;6
+<br/>&nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+<br/>&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8
 
 ##### 解题思路：
     分析前序遍历的根结点始终是第一个。在中序遍历中，根结点在中间位置，左子树在这个结点的左边，右子树在该结点的右边。
