@@ -10,4 +10,4 @@
 <br/>（2）方法二：使用临时变量保存
 
 ##### 参考
-[Question7](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question7/Main.java)
+[源码](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question7/Main.java)
