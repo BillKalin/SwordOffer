@@ -16,4 +16,4 @@
     那么可以遍历中序遍历，利用递归找到左子树和右子树。
 
 ##### 参考
-[Question4](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question4/Question4.java)
+[Question4](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question4/Main.java)

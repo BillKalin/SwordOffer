@@ -5,7 +5,7 @@ import com.billkalin.sourcecode.common.TreeNode;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-public class Question4 {
+public class Main {
 
     public static void main(String[] args) {
         int[] preOrder = {1, 2, 4, 7, 3, 5, 6, 8};

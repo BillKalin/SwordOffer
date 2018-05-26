@@ -2,7 +2,7 @@ package com.billkalin.sourcecode.question2;
 
 import java.util.Arrays;
 
-public class Question2 {
+public class Main {
 
     public static void main(String[] args) {
         char[] a = {'a', ' ', 'c', ' '};

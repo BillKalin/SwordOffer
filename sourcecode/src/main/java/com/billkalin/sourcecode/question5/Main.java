@@ -4,7 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Queue;
 import java.util.Stack;
 
-public class Question5 {
+public class Main {
 
     public static void main(String[] args) {
         System.out.println("栈模拟队列");

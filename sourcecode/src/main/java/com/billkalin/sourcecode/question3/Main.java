@@ -5,7 +5,7 @@ import com.billkalin.sourcecode.common.SimpleLinkList;
 
 import java.util.Stack;
 
-public class Question3 {
+public class Main {
 
     public static void main(String[] args) {
         SimpleLinkList<Integer> linkList = new SimpleLinkList();

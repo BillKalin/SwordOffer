@@ -12,4 +12,4 @@
 但是要考虑一下{1,0,1,1,1}，{1,1,1,0,1}的情况，那么第一个、第二个指针和中间指针相同，此时无法确定最小数字的范围，只能顺序查找了。
 
 ##### 参考
-[Question6](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question6/Question6.java)
+[Question6](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question6/Main.java)

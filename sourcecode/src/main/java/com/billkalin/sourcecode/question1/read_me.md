@@ -20,4 +20,4 @@
         如果比目标数字小，那就往右查找
         如此缩小范围，直到找到这个数字或者遍历完整个数组
 ##### 参考
-[Question1](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question1/Question1.java)
+[Question1](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question1/Main.java)

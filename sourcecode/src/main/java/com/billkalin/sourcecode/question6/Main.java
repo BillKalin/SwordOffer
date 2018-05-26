@@ -1,6 +1,6 @@
 package com.billkalin.sourcecode.question6;
 
-public class Question6 {
+public class Main {
 
     public static void main(String[] args) {
         int[] array = {3, 4, 5, 0, 1};//array = {1, 1, 1, 0, 1};

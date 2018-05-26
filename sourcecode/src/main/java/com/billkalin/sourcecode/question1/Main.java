@@ -1,6 +1,6 @@
 package com.billkalin.sourcecode.question1;
 
-public class Question1 {
+public class Main {
 
     public static void main(String[] args) {
         int[][] testArray = {
