@@ -14,3 +14,5 @@
 6、[旋转数组的最小数字](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question6/read_me.md)
 
 7、[斐波那契数列](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question7/read_me.md)
+
+8、[二进制中1的个数](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question8/read_me.md)
