@@ -30,39 +30,41 @@ public class Main {
             return;
         }
 
-        StringBuffer stringBuffer = new StringBuffer();
-        for (int i = 0; i < n; i++) {
-            stringBuffer.append('0');
-        }
+        int[] numArr = new int[n];
+
         System.out.println("");
-        while (!increment(n, stringBuffer)) {
-            boolean begin = true;
-            for (int i = 0; i < stringBuffer.length(); i++) {
-                char ch = stringBuffer.charAt(i);
-                if (begin && ch != '0') {
-                    begin = false;
-                }
-                if (!begin) {
-                    System.out.print(stringBuffer.charAt(i));
-                }
-            }
-            System.out.println("");
+        while (!increment(n, numArr)) {
+            printNum(numArr);
         }
     }
 
-    private static boolean increment(int n, StringBuffer stringBuffer) {
+    private static boolean increment(int n, int[] numArr) {
         for (int i = n - 1; i >= 0; i--) {
-            int ch = stringBuffer.charAt(i) + 1;
-            if (ch > '9') {
+            int num = numArr[i] + 1;
+            if (num > 9) {
                 if (i == 0) {
                     return true;
                 }
-                stringBuffer.setCharAt(i, '0');
+                numArr[i] = 0;
             } else {
-                stringBuffer.setCharAt(i, (char) ch);
+                numArr[i] = num;
                 break;
             }
         }
         return false;
+    }
+
+    private static void printNum(int[] numArr) {
+        boolean begin = true;
+        for (int i = 0; i < numArr.length; i++) {
+            int num = numArr[i];
+            if (begin && num != 0) {
+                begin = false;
+            }
+            if (!begin) {
+                System.out.print(num);
+            }
+        }
+        System.out.println("");
     }
 }
