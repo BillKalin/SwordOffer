@@ -16,3 +16,5 @@
 7、[斐波那契数列](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question7/read_me.md)
 
 8、[二进制中1的个数](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question8/read_me.md)
+
+9、[数值的整数次方](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question9/read_me.md)
