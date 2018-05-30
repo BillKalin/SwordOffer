@@ -22,3 +22,5 @@
 10、[打印1到最大的n位数](./sourcecode/src/main/java/com/billkalin/sourcecode/question10/read_me.md)
 
 11、[在O(1)时间删除链表结点](./sourcecode/src/main/java/com/billkalin/sourcecode/question11/read_me.md)
+
+12、[调整数组顺序使奇数位于偶数前面](./sourcecode/src/main/java/com/billkalin/sourcecode/question12/read_me.md)
