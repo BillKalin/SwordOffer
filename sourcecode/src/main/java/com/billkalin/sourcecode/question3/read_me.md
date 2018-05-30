@@ -12,4 +12,4 @@
        递归遍历链表，打印结点的值。
 
 ##### 参考
-[源码](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question3/Main.java)
+[源码](./Main.java)

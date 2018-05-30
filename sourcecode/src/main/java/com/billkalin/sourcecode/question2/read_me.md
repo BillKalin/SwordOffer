@@ -14,4 +14,4 @@
     合并两个有序数组A1和A2，A1的长度能容纳A1和A2的所有数字，A1和A2都是有序。请在原有A1数组上合并这两个数组(即不能使用额外空间)。
 
 ##### 参考
-[源码](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question2/Main.java)
+[源码](./Main.java)

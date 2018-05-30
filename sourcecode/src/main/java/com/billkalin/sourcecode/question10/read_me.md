@@ -14,4 +14,4 @@
 <br/>仍然使用数组保存对应位的数字，使用递归方式依次产生每个位置上的数字。
 
 ##### 参考
-[源码](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question10/Main.java)
+[源码](./Main.java)

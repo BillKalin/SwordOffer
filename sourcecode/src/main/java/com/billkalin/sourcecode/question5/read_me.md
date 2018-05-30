@@ -12,4 +12,4 @@
 <br/>(b) 栈的pop操作：把插入队列的元素从头部删除，插入到另外一个队列即可，插入队列最后一个元素就是要返回的。
 
 ##### 参考
-[源码](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question5/Main.java)
+[源码](./Main.java)

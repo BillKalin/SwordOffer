@@ -7,4 +7,4 @@
 还需要考虑计算一个数字的N次方的效率问题。
 
 ##### 参考
-[源码](https://github.com/BillKalin/SwordOffer/blob/master/sourcecode/src/main/java/com/billkalin/sourcecode/question9/Main.java)
+[源码](./Main.java)
