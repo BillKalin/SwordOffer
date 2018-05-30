@@ -21,4 +21,22 @@ public class SimpleLinkList<T> {
         }
     }
 
+    public LinkNode<T> getNode(int index) {
+        if (index < 0 || null == head)
+            return null;
+
+        LinkNode<T> curr = head;
+        int i = 0;
+        while (i < index) {
+            if (curr != null) {
+                curr = curr.next;
+            } else {
+                return null;
+            }
+            i ++;
+        }
+
+        return curr;
+    }
+
 }
