@@ -25,7 +25,7 @@ public class Main {
      * @return
      */
     private static LinkNode<Integer> findSpecialNode(LinkNode<Integer> head, int k) {
-        if (k == 0 || head == null)
+        if (k <= 0 || head == null)
             return null;
 
         LinkNode<Integer> p1 = head;
