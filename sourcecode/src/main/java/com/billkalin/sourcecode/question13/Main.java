@@ -1,6 +1,7 @@
 package com.billkalin.sourcecode.question13;
 
 import com.billkalin.sourcecode.common.LinkNode;
+import com.billkalin.sourcecode.common.PrintUtils;
 import com.billkalin.sourcecode.common.SimpleLinkList;
 
 public class Main {
@@ -12,7 +13,7 @@ public class Main {
         }
 
         LinkNode<Integer> head = linkList.getHead();
-        printLinkList(head);
+        PrintUtils.printIntegerLinkList(head);
         int k = 10;
         LinkNode<Integer> node = findSpecialNode(head, k);
 
@@ -56,18 +57,6 @@ public class Main {
         }
 
         return p1;
-    }
-
-    private static void printLinkList(LinkNode<Integer> head) {
-        if (null == head) {
-            return;
-        }
-
-        LinkNode<Integer> curr = head;
-        while (null != curr) {
-            System.out.print(curr.t + ", ");
-            curr = curr.next;
-        }
     }
 
     /**

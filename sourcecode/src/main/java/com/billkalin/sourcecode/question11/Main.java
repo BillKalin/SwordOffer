@@ -1,6 +1,7 @@
 package com.billkalin.sourcecode.question11;
 
 import com.billkalin.sourcecode.common.LinkNode;
+import com.billkalin.sourcecode.common.PrintUtils;
 import com.billkalin.sourcecode.common.SimpleLinkList;
 
 public class Main {
@@ -10,13 +11,13 @@ public class Main {
         for (int i = 0; i < 1; i++) {
             linkList.add(i);
         }
-        printLinkList(linkList.getHead());
+        PrintUtils.printIntegerLinkList(linkList.getHead());
         LinkNode<Integer> head = linkList.getHead();
         LinkNode<Integer> delNode = linkList.getNode(0);
 
         System.out.println("\n删除后的结点:");
         head = delNode(head, delNode);
-        printLinkList(head);
+        PrintUtils.printIntegerLinkList(head);
     }
 
     private static LinkNode<Integer> delNode(LinkNode<Integer> head, LinkNode<Integer> delNode) {
@@ -40,13 +41,5 @@ public class Main {
             delNode = null;
         }
         return head;
-    }
-
-    private static void printLinkList(LinkNode<Integer> head) {
-        LinkNode<Integer> curr = head;
-        while (curr != null) {
-            System.out.print(curr.t + ", ");
-            curr = curr.next;
-        }
     }
 }
