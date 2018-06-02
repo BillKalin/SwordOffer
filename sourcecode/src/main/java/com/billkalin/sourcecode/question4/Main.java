@@ -1,9 +1,7 @@
 package com.billkalin.sourcecode.question4;
 
+import com.billkalin.sourcecode.common.PrintUtils;
 import com.billkalin.sourcecode.common.TreeNode;
-
-import java.util.ArrayDeque;
-import java.util.Queue;
 
 public class Main {
 
@@ -12,7 +10,7 @@ public class Main {
         int[] inOrder = {4, 7, 2, 1, 5, 3, 8, 6};
 
         TreeNode<Integer> root = recreateTree(preOrder, inOrder);
-        displayNode(root);
+        PrintUtils.printTreeNode(root);
     }
 
     private static TreeNode<Integer> recreateTree(int[] preOrder, int[] inOrder) {
@@ -92,29 +90,5 @@ public class Main {
         }
 
         return root;
-    }
-
-    /**
-     * 广度遍历二叉树
-     *
-     * @param node
-     */
-    private static void displayNode(TreeNode<Integer> node) {
-        if (null != node) {
-            Queue<TreeNode<Integer>> queue = new ArrayDeque<>();
-            queue.add(node);
-            while (node != null) {
-                node = queue.poll();
-                if (null != node) {
-                    System.out.print("" + node.t + ",");
-                    if (node.left != null) {
-                        queue.add(node.left);
-                    }
-                    if (node.right != null) {
-                        queue.add(node.right);
-                    }
-                }
-            }
-        }
     }
 }
