@@ -38,3 +38,5 @@
 18、[顺时针打印矩阵](./sourcecode/src/main/java/com/billkalin/sourcecode/question18/read_me.md)
 
 19、[包含min函数的栈](./sourcecode/src/main/java/com/billkalin/sourcecode/question19/read_me.md)
+
+20、[栈的压入、弹出序列](./sourcecode/src/main/java/com/billkalin/sourcecode/question20/read_me.md)
