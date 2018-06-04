@@ -36,3 +36,5 @@
 17、[二叉树的镜像](./sourcecode/src/main/java/com/billkalin/sourcecode/question17/read_me.md)
 
 18、[顺时针打印矩阵](./sourcecode/src/main/java/com/billkalin/sourcecode/question18/read_me.md)
+
+19、[包含min函数的栈](./sourcecode/src/main/java/com/billkalin/sourcecode/question19/read_me.md)
