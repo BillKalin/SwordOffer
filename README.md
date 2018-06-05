@@ -40,3 +40,7 @@
 19、[包含min函数的栈](./sourcecode/src/main/java/com/billkalin/sourcecode/question19/read_me.md)
 
 20、[栈的压入、弹出序列](./sourcecode/src/main/java/com/billkalin/sourcecode/question20/read_me.md)
+
+21、[从上往下打印二叉树](./sourcecode/src/main/java/com/billkalin/sourcecode/question21/read_me.md)
+
+22、[二叉搜索树的后序遍历序列](./sourcecode/src/main/java/com/billkalin/sourcecode/question22/read_me.md)
