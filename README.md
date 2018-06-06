@@ -44,3 +44,5 @@
 21、[从上往下打印二叉树](./sourcecode/src/main/java/com/billkalin/sourcecode/question21/read_me.md)
 
 22、[二叉搜索树的后序遍历序列](./sourcecode/src/main/java/com/billkalin/sourcecode/question22/read_me.md)
+
+23、[二叉树中和为某一值的路径](./sourcecode/src/main/java/com/billkalin/sourcecode/question22/read_me.md)
