@@ -48,3 +48,5 @@
 23、[二叉树中和为某一值的路径](./sourcecode/src/main/java/com/billkalin/sourcecode/question23/read_me.md)
 
 24、[复杂链表的复制](./sourcecode/src/main/java/com/billkalin/sourcecode/question24/read_me.md)
+
+25、[二叉搜索树和双向链表](./sourcecode/src/main/java/com/billkalin/sourcecode/question25/read_me.md)
