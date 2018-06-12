@@ -52,3 +52,5 @@
 25、[二叉搜索树和双向链表](./sourcecode/src/main/java/com/billkalin/sourcecode/question25/read_me.md)
 
 26、[字符串的排列](./sourcecode/src/main/java/com/billkalin/sourcecode/question26/read_me.md)
+
+27、[数组中出现次数超过一半的数字](./sourcecode/src/main/java/com/billkalin/sourcecode/question27/read_me.md)
