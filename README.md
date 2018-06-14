@@ -54,3 +54,5 @@
 26、[字符串的排列](./sourcecode/src/main/java/com/billkalin/sourcecode/question26/read_me.md)
 
 27、[数组中出现次数超过一半的数字](./sourcecode/src/main/java/com/billkalin/sourcecode/question27/read_me.md)
+
+28、[最小的k个数](./sourcecode/src/main/java/com/billkalin/sourcecode/question28/read_me.md)
