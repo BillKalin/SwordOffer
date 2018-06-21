@@ -58,3 +58,5 @@
 28、[最小的k个数](./sourcecode/src/main/java/com/billkalin/sourcecode/question28/read_me.md)
 
 29、[连续子数组的最大和](./sourcecode/src/main/java/com/billkalin/sourcecode/question29/read_me.md)
+
+30、[从1到n整数中1出现的次数](./sourcecode/src/main/java/com/billkalin/sourcecode/question30/read_me.md)
