@@ -62,3 +62,5 @@
 30、[从1到n整数中1出现的次数](./sourcecode/src/main/java/com/billkalin/sourcecode/question30/read_me.md)
 
 31、[把数组排成最小的数](./sourcecode/src/main/java/com/billkalin/sourcecode/question31/read_me.md)
+
+32、[丑数](./sourcecode/src/main/java/com/billkalin/sourcecode/question32/read_me.md)
