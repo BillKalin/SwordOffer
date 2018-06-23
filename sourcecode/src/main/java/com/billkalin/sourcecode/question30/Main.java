@@ -3,11 +3,11 @@ package com.billkalin.sourcecode.question30;
 public class Main {
 
     public static void main(String[] args) {
-        int n = 12;
+        int n = 2139;
 
         int count = numberOf1Between1AndN(n);
 
-        System.out.println("从1到" + n + " 1出现的次数我为：" + count);
+        System.out.println("从1到" + n + " 1出现的次数为：" + count);
     }
 
 
