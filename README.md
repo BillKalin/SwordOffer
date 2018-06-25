@@ -64,3 +64,5 @@
 31、[把数组排成最小的数](./sourcecode/src/main/java/com/billkalin/sourcecode/question31/read_me.md)
 
 32、[丑数](./sourcecode/src/main/java/com/billkalin/sourcecode/question32/read_me.md)
+
+33、[第一个只出现一次的字符](./sourcecode/src/main/java/com/billkalin/sourcecode/question33/read_me.md)
