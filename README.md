@@ -66,3 +66,5 @@
 32、[丑数](./sourcecode/src/main/java/com/billkalin/sourcecode/question32/read_me.md)
 
 33、[第一个只出现一次的字符](./sourcecode/src/main/java/com/billkalin/sourcecode/question33/read_me.md)
+
+34、[数组中的逆序对](./sourcecode/src/main/java/com/billkalin/sourcecode/question34/read_me.md)
