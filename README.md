@@ -68,3 +68,5 @@
 33、[第一个只出现一次的字符](./sourcecode/src/main/java/com/billkalin/sourcecode/question33/read_me.md)
 
 34、[数组中的逆序对](./sourcecode/src/main/java/com/billkalin/sourcecode/question34/read_me.md)
+
+35、[两个链表的第一个公告结点](./sourcecode/src/main/java/com/billkalin/sourcecode/question35/read_me.md)
