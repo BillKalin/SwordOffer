@@ -24,7 +24,8 @@ public class Main {
         int length = getTreeDeep(root);
         length = getTreeDeep2(root);
 
-        System.out.println("二叉树的深度为：" + length);
+        boolean isBalance = isBalanceTree2(root)!= -1;
+        System.out.println("二叉树的深度为：" + length + " & isBalance = " + isBalance);
     }
 
 
@@ -67,5 +68,43 @@ public class Main {
             }
         }
         return ret;
+    }
+
+    private static boolean isBalanceTree(TreeNode<Integer> root) {
+        if (null == root) {
+            return true;
+        }
+
+        int left = getTreeDeep2(root.left);
+        int right = getTreeDeep2(root.right);
+
+        if (Math.abs(left - right) > 1) {
+            return false;
+        }
+        return isBalanceTree(root.left) && isBalanceTree(root.right);
+    }
+
+    private static int isBalanceTree2(TreeNode<Integer> root) {
+        if (null == root) {
+            return 0;
+        }
+
+        int left = 0;
+        int right = 0;
+        if (null != root.left) {
+            left = isBalanceTree2(root.left);
+        }
+
+        if (left != -1 && null != root.right) {
+            right = isBalanceTree2(root.right);
+        }
+
+        if (left != -1 && right != -1) {
+            int diff = Math.abs(left - right);
+            if (diff <= 1) {
+                return (left > right ? left : right) + 1;
+            }
+        }
+        return -1;
     }
 }
