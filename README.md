@@ -74,3 +74,5 @@
 36、[数字在排序数组中出现的次数](./sourcecode/src/main/java/com/billkalin/sourcecode/question36/read_me.md)
 
 37、[二叉树的深度](./sourcecode/src/main/java/com/billkalin/sourcecode/question37/read_me.md)
+
+38、[数组中只出现一次的数字](./sourcecode/src/main/java/com/billkalin/sourcecode/question38/read_me.md)
