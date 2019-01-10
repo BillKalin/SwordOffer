@@ -78,3 +78,5 @@
 38、[数组中只出现一次的数字](./sourcecode/src/main/java/com/billkalin/sourcecode/question38/read_me.md)
 
 39、[和为s的两个数字VS和为s的连续正数序列](./sourcecode/src/main/java/com/billkalin/sourcecode/question39/read_me.md)
+
+40、[翻转单词顺序VS左旋转字符串](./sourcecode/src/main/java/com/billkalin/sourcecode/question40/read_me.md)
